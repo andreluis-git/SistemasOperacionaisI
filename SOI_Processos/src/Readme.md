@@ -24,7 +24,7 @@ aplicação também deve estar disponível.<br />
 - Para filtrar a saída String, considere utilizar contains, Split, substring,
 lastIndexOf, trim;
 
-[Link exercício](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Processos/src/redesController)
+[Resolução](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Processos/src/redesController)
 
 **Ex. 2**
 
@@ -49,4 +49,4 @@ matar o processo e o finalize;
 do processo, como parâmetros de entrada, selecione o comando
 para matar o processo e o finalize;
 
-[Link exercício](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Processos/src/killProcess)
+[Resolução](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Processos/src/killProcess)

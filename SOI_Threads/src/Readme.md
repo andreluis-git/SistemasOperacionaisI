@@ -30,15 +30,13 @@ entre 0 e a velocidade máxima (definida aleatoriamente).
 Assim que o primeiro carro chegar, o JTextField Vencedor
 deve receber o nome deste e o JTextField Perdedor receberá
 o nome do outro carro. Assim que a corrida se inicia, o botão
-Correr deve sumir.
-
-![Corrida de carros](https://pasteboard.co/JIgQ835.png)
+Correr deve sumir.<br/>
+![Corrida de carros](https://github.com/andreluis-git/SistemasOperacionaisI/blob/main/readmeImages/corridacarros.PNG)
 
 5. Fazer, com o Java SWING, uma aplicação de
 caça-níquel, conforme figura abaixo. O caça níquel
 tem 3 JTextFields, independentes, que giram,
 aleatoriamente, de 1 a 150 vezes e apresentará um
 número de 1 a 7. Quando iniciado, o botão Jogar
-deve desaparecer.
-
-![Caça niquel](https://pasteboard.co/JIgQAz1.png)
+deve desaparecer.<br/>
+![Caça niquel](https://github.com/andreluis-git/SistemasOperacionaisI/blob/main/readmeImages/Cacaniquel.PNG)

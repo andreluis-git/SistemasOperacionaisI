@@ -35,7 +35,7 @@ c) Threads com ID dividido por 3 resultando em resto igual a zero fazem as trans
 Faça uma aplicação em Java que simule a situação de 21 Threads simultâneas, com
 exibição em console de cada passo que a Thread está realizando.
 
-[Link exercício](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Threads_Semaforos/src/servidor)
+[Resolução](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Threads_Semaforos/src/servidor)
 </p>
 
 <p>
@@ -51,5 +51,5 @@ segundos). Quando um prato fica pronto, é necessário comunicar em console o fi
 fazer a entrega, que leva 0,5 segundos. O jogador só pode entregar um prato por vez e
 deve comunicar a entrega. Simular a situação em Java.
   
-[Link exercício](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Threads_Semaforos/src/cozinha)
+[Resolução](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Threads_Semaforos/src/cozinha)
 </p>

@@ -1,6 +1,6 @@
 # Exercícios de Semáforos
 
-1. 4 pessoas caminham, cada uma em um
+1) 4 pessoas caminham, cada uma em um
 corredor diferente. Os 4 corredores terminam
 em uma única porta. Apenas 1 pessoa pode
 cruzar a porta, por vez. Considere que cada
@@ -10,11 +10,9 @@ para abrir e cruzar a porta. Faça uma
 aplicação em java que simule essa situação.
 [Link exercício](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/corredores)
 
-2. Fazer uma aplicação que gerencie a figura
-abaixo:
-  
-![Cruzamento](https://github.com/andreluis-git/SistemasOperacionaisI/blob/main/SOI_Semaforo/src/cruzamento.PNG)
-
+2) Fazer uma aplicação que gerencie a figura
+abaixo:<br />  
+![Cruzamento](https://github.com/andreluis-git/SistemasOperacionaisI/blob/main/SOI_Semaforo/src/cruzamento.PNG)<br />
 Para tal, usar uma variável sentido,
 que será alterado pela Thread que
 controla cada carro com a
@@ -27,7 +25,7 @@ por vez no cruzamento.
 [Link exercício (saída em console)](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/cruzamentoConsole), 
 [Link exercício (saída em jFrame)](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/cruzamentoComTela)
 
-3. Você foi contratado para automatizar um treino de Fórmula 1.
+3) Você foi contratado para automatizar um treino de Fórmula 1.
 As regras estabelecidas pela direção da provas são simples:
 “No máximo 5 carros das 7 escuderias (14 carros no total)
 presentes podem entrar na pista simultaneamente, mas apenas
@@ -39,7 +37,7 @@ armazenada para, ao final, exibir o grid de largada, ordenado
 do menor tempo para o maior.” 
 [Link exercício](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/f1)
 
-4. Um banco deve controlar Saques e Depósitos.
+4) Um banco deve controlar Saques e Depósitos.
 O sistema pode permitir um Saque e um Depósito
 Simultâneos, mas nunca 2 Saques ou 2 Depósitos
 Simultâneos.

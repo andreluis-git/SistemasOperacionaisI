@@ -12,7 +12,7 @@ aplicação em java que simule essa situação.
 
 2) Fazer uma aplicação que gerencie a figura
 abaixo:<br />  
-![Cruzamento](https://github.com/andreluis-git/SistemasOperacionaisI/blob/main/SOI_Semaforo/src/cruzamento.PNG)<br />
+![Cruzamento](https://github.com/andreluis-git/SistemasOperacionaisI/blob/main/readmeImages/cruzamento.PNG)<br />
 Para tal, usar uma variável sentido,
 que será alterado pela Thread que
 controla cada carro com a

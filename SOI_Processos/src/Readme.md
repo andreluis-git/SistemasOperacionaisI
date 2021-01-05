@@ -24,6 +24,8 @@ aplicação também deve estar disponível.<br />
 - Para filtrar a saída String, considere utilizar contains, Split, substring,
 lastIndexOf, trim;
 
+[Link exercício](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Processos/src/redesController)
+
 **Ex. 2**
 
 Fazer, em java, uma aplicação que liste os processos ativos, permita ao
@@ -46,3 +48,5 @@ matar o processo e o finalize;
 - Um método que, recebendo o SO, no qual está rodando, e o Nome
 do processo, como parâmetros de entrada, selecione o comando
 para matar o processo e o finalize;
+
+[Link exercício](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Processos/src/killProcess)

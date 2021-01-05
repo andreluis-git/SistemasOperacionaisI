@@ -8,7 +8,8 @@ corredor tem 200m. e cada pessoa anda de 4 a
 6 m/s. Cada pessoa leva de 1 a 2 segundos
 para abrir e cruzar a porta. Faça uma
 aplicação em java que simule essa situação.
-[Link exercício](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/corredores)
+
+[Resolução](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/corredores)
 
 2) Fazer uma aplicação que gerencie a figura
 abaixo:<br />  
@@ -22,8 +23,8 @@ executada, ela deve imprimir em
 console o sentido que o carro está
 passando. Só pode passar um carro
 por vez no cruzamento. 
-[Link exercício (saída em console)](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/cruzamentoConsole), 
-[Link exercício (saída em jFrame)](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/cruzamentoComTela)
+[Resolução em Console](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/cruzamentoConsole), 
+[Resolução em jFrame)](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/cruzamentoComTela)
 
 3) Você foi contratado para automatizar um treino de Fórmula 1.
 As regras estabelecidas pela direção da provas são simples:
@@ -35,7 +36,7 @@ deve dar 3 voltas na pista. O tempo de cada volta deverá ser
 exibido e a volta mais rápida de cada piloto deve ser
 armazenada para, ao final, exibir o grid de largada, ordenado
 do menor tempo para o maior.” 
-[Link exercício](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/f1)
+[Resolução](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/f1)
 
 4) Um banco deve controlar Saques e Depósitos.
 O sistema pode permitir um Saque e um Depósito
@@ -49,4 +50,4 @@ transações simultâneas serão enviadas ao sistema
 (aleatoriamente essas transações podem ser qualquer uma das
 opções) e tratar todas as transações, de acordo com as regras
 acima. 
-[Link exercício](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/banco)
+[Resolução](https://github.com/andreluis-git/SistemasOperacionaisI/tree/main/SOI_Semaforo/src/banco)

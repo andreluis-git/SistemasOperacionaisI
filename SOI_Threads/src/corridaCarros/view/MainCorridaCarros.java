@@ -16,7 +16,7 @@ import javax.swing.border.LineBorder;
 import controller.CorridaController;
 import controller.ResetCorrida;
 
-public class Main extends JFrame{	
+public class MainCorridaCarros extends JFrame{	
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 	
@@ -24,7 +24,7 @@ public class Main extends JFrame{
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-				Main frame = new Main();
+				MainCorridaCarros frame = new MainCorridaCarros();
 				frame.setVisible(true);
 				} catch (Exception e) {
 				e.printStackTrace();
@@ -32,7 +32,7 @@ public class Main extends JFrame{
 			}
 		});
 	}
-	public Main() {
+	public MainCorridaCarros() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();

@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 import controller.ProcessController;
 
-public class Main{
+public class MainKillProcess{
 	
 	public static void main(String[] args) {
 		ProcessController processController = new ProcessController();
